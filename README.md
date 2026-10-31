@@ -15,6 +15,4 @@ ITSchool - Machine Learning. [Date UCI](https://archive.ics.uci.edu/dataset/560/
 | Regresie liniară | 235.14 | 327.38 | 0.715 |
 | Random Forest | 308.35 | 435.28 | 0.496 |
 
-**Utilizarea AI:**
 
-- Am folosit AI pentru explicații despre cod, modele și metrici.
